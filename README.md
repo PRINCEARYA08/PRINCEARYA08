@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm <span style="color:#4FC3F7;">Prince Arya</span></h1>
 <h4 align="center">MERN Stack Developer | Full-Stack Web Developer | Computer Science Student</h4>
 
-<a href="https://github.com/Parya100">
+<a href="https://github.com/PRINCEARYA08">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6D3AEE&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;React+%7C+Node+%7C+MongoDB;Building+Real+World+Projects;Future+Software+Engineer"
 alt="Typing SVG" />
 </a>
@@ -17,7 +17,7 @@ alt="Typing SVG" />
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://github.com/Parya100">
+<a href="https://github.com/PRINCEARYA08">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
