@@ -144,7 +144,8 @@ I love solving problems and turning ideas into real applications.
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Parya100&theme=dark&hide_border=true" />
+
+<img src="https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08&hide_border=true" />
 
 </div>
 
