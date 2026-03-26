@@ -146,9 +146,6 @@ I love solving problems and turning ideas into real applications.
 
 
 <img src="https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08&hide_border=true" />
-<img src="https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08&hide_border=true" />
-<a href="https://git.io/streak-stats"><img src="https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08" alt="GitHub Streak" /></a>
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08)](https://git.io/streak-stats)
 </div>
 
 ---
