@@ -145,7 +145,8 @@ I love solving problems and turning ideas into real applications.
 <div align="center">
 
 
-<img src="https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08&hide_border=true" />
+<!-- <img src="https://nirzak-streak-stats.vercel.app?user=PRINCEARYA08&hide_border=true" /> -->
+<img width=390 src="https://streak-stats.demolab.com/?user=PRINCEARYA08&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 ---
