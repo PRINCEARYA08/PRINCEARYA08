@@ -154,6 +154,7 @@ I love solving problems and turning ideas into real applications.
 <div align="center">
 
 <p><i>"Focused on becoming a professional Full Stack Developer and building impactful applications."</i></p>
+<p><i>"Every day = coding + building."</i></p>
 
 <img src="https://komarev.com/ghpvc/?username=Parya100&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
